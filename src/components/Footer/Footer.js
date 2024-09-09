@@ -2,6 +2,7 @@ import React from "react";
 import "./footer.css";
 import { Link } from "react-router-dom";
 import fb from "../../styles/icônes/uil_facebook.png";
+import tel from "../../styles/icônes/icons8-tel-58 (1).png";
 import mess from "../../styles/icônes/icons8-courrier-48.png";
 
 const Footer = () => {
