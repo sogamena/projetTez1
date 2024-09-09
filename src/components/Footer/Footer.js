@@ -2,11 +2,6 @@ import React from "react";
 import "./footer.css";
 import { Link } from "react-router-dom";
 import fb from "../../styles/icônes/uil_facebook.png";
-import ut from "../../styles/icônes/fa_youtube.png";
-import tw from "../../styles/icônes/mdi_twitter.png";
-import din from "../../styles/icônes/mdi_linkedin.png";
-import mail from "../../styles/icônes/ic_baseline-email.png";
-import tel from "../../styles/icônes/icons8-tel-58 (1).png";
 import mess from "../../styles/icônes/icons8-courrier-48.png";
 
 const Footer = () => {
